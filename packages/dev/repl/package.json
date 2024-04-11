@@ -45,6 +45,6 @@
   "browserslist": "Chrome 75",
   "devDependencies": {
     "eslint-config-react-app": "^7.0.1",
-    "sharp": "^0.31.1"
+    "sharp": "^0.33.3"
   }
 }
